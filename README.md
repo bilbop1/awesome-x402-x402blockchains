@@ -16,6 +16,7 @@ A focused resource guide maintained by [X402blockchains](https://x402blockchains
 - [X402blockchains](https://x402blockchains.com) — project discovery and payment exploration.
 - [x402scan](https://www.x402scan.com/) — ecosystem explorer.
 - [Agent402](https://agent402.tools/base) — Base seller discovery and activity views.
+- [bilbop x402](https://api.bilbop.org) — Pay-per-call Solana USDC APIs (summarize, sol-token-brief, sol-mint-info, brand-feedback, tts). Manifest: [/.well-known/x402](https://api.bilbop.org/.well-known/x402). Disclosure: we operate this service.
 
 Compare the same network, UTC time range and measurement definition. Wallet transfers, protocol settlements and API requests are different measurements; totals need not match.
 
